@@ -22,3 +22,4 @@ $ dotnet build
 $ dotnet run
 
 ```
+<b>Observação:</b> será necessário criar um cluster na plataforma do <a href="https://www.mongodb.com/" target="_blank">MongoDB</a> e colar sua string de conexão no arquivo: <i>appsettings.json</i>, mais especificamente no campo "ConnectionString".
